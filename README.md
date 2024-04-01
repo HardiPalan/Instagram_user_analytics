@@ -1,1 +1,1 @@
-# Instagram_user_analytics
+Welcome to the Instagram User Analytics project! This repository hosts a comprehensive analysis of user behavior and engagement on the Instagram platform. The insights generated through this project aim to assist various teams across our business, including marketing, product, and development, in making informed decisions to enhance user experience and drive business growth.
